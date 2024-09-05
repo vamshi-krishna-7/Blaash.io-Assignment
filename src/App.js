@@ -38,7 +38,7 @@ class App extends Component {
   }
 
   render() {
-    const {playlistData, selectedPlaylist} = this.state
+    const {playlistData, selectedPlaylist, selectedVideo} = this.state
 
     return (
       <div className="app-container">
