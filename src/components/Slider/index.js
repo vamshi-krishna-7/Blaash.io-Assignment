@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import './Slider.css'
+import './index.css'
 
 class Slider extends Component {
   render() {
